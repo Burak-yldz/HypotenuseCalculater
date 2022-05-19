@@ -1,3 +1,3 @@
 # HypotenuseCalculater
 
-I calculated of hypotonuse with this project.
+I calculated of hypotenuse with this project.
